@@ -18,7 +18,7 @@ from github_releases import get_latest_release
 # -- PROJECT Variables ----------------------------------------------------
 settings_project_name = 'SampleDoc'
 settings_copyright_copyleft = 'CC-BY 3.0'
-settings_editor_name = 'AT'
+settings_editor_name = 'GP'
 settings_doc_version = get_latest_release('italia', 'design-doc')
 settings_doc_release = settings_doc_version
 settings_basename = 'SampleDoc'
